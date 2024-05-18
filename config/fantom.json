@@ -1,9 +1,12 @@
 {
-  "arbContract": "0xchangethis",
+  "arbContract": "0x574438f98A523a6994e36CF302ADF8A4CF00a13a",
   "minBasisPointsPerTrade": 50,
   "routers": [
     { "dex": "spiritswap", "address": "0x16327e3fbdaca3bcf7e38f5af2599d2ddc33ae52" },
-    { "dex": "spookyswap", "address": "0xf491e7b69e4244ad4002bc14e878a34207e38c29" }
+    { "dex": "spookyswap", "address": "0xf491e7b69e4244ad4002bc14e878a34207e38c29" },
+    { "dex": "YOSHI", "address": "0x3dc57B391262e3aAe37a08D91241f9bA9d58b570" },
+    { "dex": "wigoSWAP", "address": "0xE992bEAb6659BFF447893641A378FbbF031C5bD6" },
+    { "dex": "Solididy", "address": "0x888ef71766ca594ded1f0fa3ae64ed2941740a20" }
   ],
   "baseAssets": [
     { "sym": "wftm","address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83" }
